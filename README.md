@@ -1,1 +1,3 @@
-Testing x2 
+# git_test
+not my first github repo 
+hello Odin project
